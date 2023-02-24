@@ -1,0 +1,20 @@
+.p1:hover {
+    color: yellow;
+}
+
+.p2:hover {
+    font-size: 20px;
+}
+
+.p3:hover {
+background-color:greenyellow ;}
+
+.p4:hover {
+    font-family: Arial, Helvetica, sans-serif ;}
+
+.p5{
+    text-decoration: none;
+}
+
+.p5:hover {
+        text-decoration: underline;}
